@@ -152,7 +152,7 @@ function displayAllMenus(menuItems) {
             <p class="item-text">${item.desc}</p>
             
           </div>
-         </article>`;
+         </article>`; 
   });
 
   allMenus = allMenus.join(""); // this will remove commas
