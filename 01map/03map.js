@@ -5,4 +5,4 @@ var cart = [
 ];
 
 var total = cart.map(item => item.price).reduce((acc, price) => acc+price, 0);
-console.log(total);
+console.log(total); //120
