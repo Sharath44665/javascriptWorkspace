@@ -9,4 +9,4 @@ const dailyTotal = staff.reduce((total, person) => {
 ```
 from the above code, `0` is initial value.
 
-**DONT FORGET** to return first parameter (`total`)
+**NEVER FORGET** to return the first parameter (`total`)
