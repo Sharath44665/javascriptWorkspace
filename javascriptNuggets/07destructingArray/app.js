@@ -33,6 +33,6 @@ let second  = 'john';
 
 // [second, first] = [first, second]
 [first, second] = [second, first]
-
+    
 console.log(first, second) // john bob
 
